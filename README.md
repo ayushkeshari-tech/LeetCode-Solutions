@@ -42,6 +42,16 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ## 📂 Topic Index
 
 <!-- TOPIC-INDEX-START -->
+
+### Arrays (1)
+- [0414 Third Maximum Number](./0414-third-maximum-number) (Easy)
+
+### LinkedList (1)
+- [0021 Merge Two Sorted Lists](./0021-merge-two-sorted-lists) (Easy)
+
+### Recursion-Backtracking (1)
+- [0021 Merge Two Sorted Lists](./0021-merge-two-sorted-lists) (Easy)
+
 <!-- TOPIC-INDEX-END -->
 
 ---

@@ -7,5 +7,14 @@
       "Linked List",
       "Recursion"
     ]
+  },
+  "third-maximum-number": {
+    "id": "414",
+    "title": "Third Maximum Number",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Sorting"
+    ]
   }
 }
