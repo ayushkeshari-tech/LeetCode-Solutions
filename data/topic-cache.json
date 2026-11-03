@@ -16,5 +16,13 @@
       "Array",
       "Sorting"
     ]
+  },
+  "minimum-bit-flips-to-convert-number": {
+    "id": "2220",
+    "title": "Minimum Bit Flips to Convert Number",
+    "difficulty": "Easy",
+    "tags": [
+      "Bit Manipulation"
+    ]
   }
 }

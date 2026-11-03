@@ -55,6 +55,9 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ### Recursion-Backtracking (1)
 - [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
 
+### Bit-Manipulation (1)
+- [2220 Minimum Bit Flips to Convert Number](./Bit-Manipulation/2220-minimum-bit-flips-to-convert-number) (Easy)
+
 <!-- TOPIC-INDEX-END -->
 
 ---
@@ -62,10 +65,3 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ⭐ Thanks for visiting my repository!
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Bit Manipulation
-|  |
-| ------- |
-| [2220-minimum-bit-flips-to-convert-number](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
-<!---LeetCode Topics End-->
