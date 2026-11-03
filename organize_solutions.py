@@ -242,8 +242,25 @@ def update_readme(index_text):
         print("README me koi change nahi.")
 
 
+def ensure_topic_folders():
+    """Saare topic folders (Other ko chhodkar) ek chhoti README.md ke saath banao."""
+    for topic in TOPIC_ORDER:
+        if topic == "Other":
+            continue
+        folder = ROOT / topic
+        folder.mkdir(exist_ok=True)
+        readme = folder / "README.md"
+        if not readme.exists():
+            readme.write_text(
+                f"# {topic}\n\nIs folder me {topic} topic ki LeetCode problems hain.\n",
+                encoding="utf-8",
+            )
+            print(f"Created folder: {topic}/")
+
+
 def main():
     cache = load_cache()
+    ensure_topic_folders()
     folders = find_problem_folders()
 
     for p in folders:
