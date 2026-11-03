@@ -40,3 +40,15 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ---
 
 ⭐ Thanks for visiting my repository!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+<!---LeetCode Topics End-->
