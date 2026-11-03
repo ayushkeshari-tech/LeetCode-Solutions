@@ -44,13 +44,16 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 <!-- TOPIC-INDEX-START -->
 
 ### Arrays (1)
-- [0414 Third Maximum Number](./0414-third-maximum-number) (Easy)
+- [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
 
 ### LinkedList (1)
-- [0021 Merge Two Sorted Lists](./0021-merge-two-sorted-lists) (Easy)
+- [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
+
+### Sorting (1)
+- [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
 
 ### Recursion-Backtracking (1)
-- [0021 Merge Two Sorted Lists](./0021-merge-two-sorted-lists) (Easy)
+- [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
 
 <!-- TOPIC-INDEX-END -->
 
@@ -58,22 +61,3 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 
 ⭐ Thanks for visiting my repository!
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
-## Recursion
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
-## Array
-|  |
-| ------- |
-| [0414-third-maximum-number](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
-## Sorting
-|  |
-| ------- |
-| [0414-third-maximum-number](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
-<!---LeetCode Topics End-->
