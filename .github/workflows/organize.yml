@@ -11,6 +11,11 @@ on:
 permissions:
   contents: write
 
+# Do runs ek saath na chalein (LeetHub ke multiple pushes par conflict na ho)
+concurrency:
+  group: update-topic-index
+  cancel-in-progress: false
+
 jobs:
   update-index:
     runs-on: ubuntu-latest
@@ -28,6 +33,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md data/topic-cache.json
+          git add -A
           git diff --staged --quiet || git commit -m "Update topic index"
+          git pull --rebase origin main
           git push
