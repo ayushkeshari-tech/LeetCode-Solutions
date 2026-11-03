@@ -58,4 +58,12 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
