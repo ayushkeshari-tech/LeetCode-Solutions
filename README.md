@@ -39,6 +39,13 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 
 ---
 
+## 📂 Topic Index
+
+<!-- TOPIC-INDEX-START -->
+<!-- TOPIC-INDEX-END -->
+
+---
+
 ⭐ Thanks for visiting my repository!
 
 <!---LeetCode Topics Start-->
