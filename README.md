@@ -46,8 +46,9 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ### Arrays (1)
 - [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
 
-### LinkedList (1)
+### LinkedList (2)
 - [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
+- [0328 Odd Even Linked List](./LinkedList/0328-odd-even-linked-list) (Medium)
 
 ### Sorting (1)
 - [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
