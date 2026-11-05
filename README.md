@@ -67,3 +67,19 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+<!---LeetCode Topics End-->
