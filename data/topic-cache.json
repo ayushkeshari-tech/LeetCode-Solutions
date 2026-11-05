@@ -32,5 +32,15 @@
     "tags": [
       "Linked List"
     ]
+  },
+  "maximum-twin-sum-of-a-linked-list": {
+    "id": "2130",
+    "title": "Maximum Twin Sum of a Linked List",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List",
+      "Two Pointers",
+      "Stack"
+    ]
   }
 }

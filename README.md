@@ -46,9 +46,16 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ### Arrays (1)
 - [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
 
-### LinkedList (2)
+### Two-Pointers-Sliding-Window (1)
+- [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
+
+### LinkedList (3)
 - [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
 - [0328 Odd Even Linked List](./LinkedList/0328-odd-even-linked-list) (Medium)
+- [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
+
+### Stack-Queue (1)
+- [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
 
 ### Sorting (1)
 - [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
