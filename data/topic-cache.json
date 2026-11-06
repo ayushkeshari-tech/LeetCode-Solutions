@@ -42,5 +42,16 @@
       "Two Pointers",
       "Stack"
     ]
+  },
+  "binary-tree-preorder-traversal": {
+    "id": "144",
+    "title": "Binary Tree Preorder Traversal",
+    "difficulty": "Easy",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
   }
 }

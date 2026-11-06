@@ -54,7 +54,8 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 - [0328 Odd Even Linked List](./LinkedList/0328-odd-even-linked-list) (Medium)
 - [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
 
-### Stack-Queue (1)
+### Stack-Queue (2)
+- [0144 Binary Tree Preorder Traversal](./Trees/0144-binary-tree-preorder-traversal) (Easy)
 - [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
 
 ### Sorting (1)
@@ -62,6 +63,12 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 
 ### Recursion-Backtracking (1)
 - [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
+
+### Trees (1)
+- [0144 Binary Tree Preorder Traversal](./Trees/0144-binary-tree-preorder-traversal) (Easy)
+
+### Graphs (1)
+- [0144 Binary Tree Preorder Traversal](./Trees/0144-binary-tree-preorder-traversal) (Easy)
 
 ### Bit-Manipulation (1)
 - [2220 Minimum Bit Flips to Convert Number](./Bit-Manipulation/2220-minimum-bit-flips-to-convert-number) (Easy)
@@ -75,18 +82,3 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
-## Two Pointers
-|  |
-| ------- |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
-## Stack
-|  |
-| ------- |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
-<!---LeetCode Topics End-->
