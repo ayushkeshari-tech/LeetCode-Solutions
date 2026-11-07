@@ -53,5 +53,16 @@
       "Depth-First Search",
       "Binary Tree"
     ]
+  },
+  "binary-tree-postorder-traversal": {
+    "id": "145",
+    "title": "Binary Tree Postorder Traversal",
+    "difficulty": "Easy",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
   }
 }
