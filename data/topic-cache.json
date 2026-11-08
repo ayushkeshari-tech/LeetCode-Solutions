@@ -64,5 +64,15 @@
       "Depth-First Search",
       "Binary Tree"
     ]
+  },
+  "n-ary-tree-preorder-traversal": {
+    "id": "589",
+    "title": "N-ary Tree Preorder Traversal",
+    "difficulty": "Easy",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search"
+    ]
   }
 }

@@ -54,9 +54,10 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 - [0328 Odd Even Linked List](./LinkedList/0328-odd-even-linked-list) (Medium)
 - [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
 
-### Stack-Queue (3)
+### Stack-Queue (4)
 - [0144 Binary Tree Preorder Traversal](./Trees/0144-binary-tree-preorder-traversal) (Easy)
 - [0145 Binary Tree Postorder Traversal](./Trees/0145-binary-tree-postorder-traversal) (Easy)
+- [0589 N-ary Tree Preorder Traversal](./Trees/0589-n-ary-tree-preorder-traversal) (Easy)
 - [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
 
 ### Sorting (1)
@@ -65,13 +66,15 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ### Recursion-Backtracking (1)
 - [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
 
-### Trees (2)
+### Trees (3)
 - [0144 Binary Tree Preorder Traversal](./Trees/0144-binary-tree-preorder-traversal) (Easy)
 - [0145 Binary Tree Postorder Traversal](./Trees/0145-binary-tree-postorder-traversal) (Easy)
+- [0589 N-ary Tree Preorder Traversal](./Trees/0589-n-ary-tree-preorder-traversal) (Easy)
 
-### Graphs (2)
+### Graphs (3)
 - [0144 Binary Tree Preorder Traversal](./Trees/0144-binary-tree-preorder-traversal) (Easy)
 - [0145 Binary Tree Postorder Traversal](./Trees/0145-binary-tree-postorder-traversal) (Easy)
+- [0589 N-ary Tree Preorder Traversal](./Trees/0589-n-ary-tree-preorder-traversal) (Easy)
 
 ### Bit-Manipulation (1)
 - [2220 Minimum Bit Flips to Convert Number](./Bit-Manipulation/2220-minimum-bit-flips-to-convert-number) (Easy)
