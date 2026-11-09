@@ -74,5 +74,16 @@
       "Tree",
       "Depth-First Search"
     ]
+  },
+  "same-tree": {
+    "id": "100",
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
   }
 }
