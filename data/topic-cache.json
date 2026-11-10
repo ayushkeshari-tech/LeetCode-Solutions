@@ -85,5 +85,16 @@
       "Breadth-First Search",
       "Binary Tree"
     ]
+  },
+  "symmetric-tree": {
+    "id": "101",
+    "title": "Symmetric Tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
   }
 }

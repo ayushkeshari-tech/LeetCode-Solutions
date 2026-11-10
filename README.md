@@ -66,14 +66,16 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ### Recursion-Backtracking (1)
 - [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
 
-### Trees (4)
+### Trees (5)
 - [0100 Same Tree](./Trees/0100-same-tree) (Easy)
+- [0101 Symmetric Tree](./Trees/0101-symmetric-tree) (Easy)
 - [0144 Binary Tree Preorder Traversal](./Trees/0144-binary-tree-preorder-traversal) (Easy)
 - [0145 Binary Tree Postorder Traversal](./Trees/0145-binary-tree-postorder-traversal) (Easy)
 - [0589 N-ary Tree Preorder Traversal](./Trees/0589-n-ary-tree-preorder-traversal) (Easy)
 
-### Graphs (4)
+### Graphs (5)
 - [0100 Same Tree](./Trees/0100-same-tree) (Easy)
+- [0101 Symmetric Tree](./Trees/0101-symmetric-tree) (Easy)
 - [0144 Binary Tree Preorder Traversal](./Trees/0144-binary-tree-preorder-traversal) (Easy)
 - [0145 Binary Tree Postorder Traversal](./Trees/0145-binary-tree-postorder-traversal) (Easy)
 - [0589 N-ary Tree Preorder Traversal](./Trees/0589-n-ary-tree-preorder-traversal) (Easy)
