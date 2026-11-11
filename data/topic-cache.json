@@ -96,5 +96,16 @@
       "Breadth-First Search",
       "Binary Tree"
     ]
+  },
+  "maximum-depth-of-binary-tree": {
+    "id": "104",
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
   }
 }
