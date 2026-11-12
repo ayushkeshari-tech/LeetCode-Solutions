@@ -43,8 +43,9 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 
 <!-- TOPIC-INDEX-START -->
 
-### Arrays (1)
+### Arrays (2)
 - [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
+- [3417 Zigzag Grid Traversal With Skip](./Matrix/3417-zigzag-grid-traversal-with-skip) (Easy)
 
 ### Two-Pointers-Sliding-Window (1)
 - [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
@@ -81,6 +82,9 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 - [0144 Binary Tree Preorder Traversal](./Trees/0144-binary-tree-preorder-traversal) (Easy)
 - [0145 Binary Tree Postorder Traversal](./Trees/0145-binary-tree-postorder-traversal) (Easy)
 - [0589 N-ary Tree Preorder Traversal](./Trees/0589-n-ary-tree-preorder-traversal) (Easy)
+
+### Matrix (1)
+- [3417 Zigzag Grid Traversal With Skip](./Matrix/3417-zigzag-grid-traversal-with-skip) (Easy)
 
 ### Bit-Manipulation (1)
 - [2220 Minimum Bit Flips to Convert Number](./Bit-Manipulation/2220-minimum-bit-flips-to-convert-number) (Easy)

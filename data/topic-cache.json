@@ -107,5 +107,15 @@
       "Breadth-First Search",
       "Binary Tree"
     ]
+  },
+  "zigzag-grid-traversal-with-skip": {
+    "id": "3417",
+    "title": "Zigzag Grid Traversal With Skip",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
   }
 }
