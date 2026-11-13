@@ -117,5 +117,15 @@
       "Matrix",
       "Simulation"
     ]
+  },
+  "binary-tree-zigzag-level-order-traversal": {
+    "id": "103",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "Medium",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
   }
 }
