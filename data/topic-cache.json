@@ -127,5 +127,16 @@
       "Breadth-First Search",
       "Binary Tree"
     ]
+  },
+  "binary-tree-right-side-view": {
+    "id": "199",
+    "title": "Binary Tree Right Side View",
+    "difficulty": "Medium",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
   }
 }
