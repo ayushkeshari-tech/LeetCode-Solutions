@@ -67,7 +67,7 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ### Recursion-Backtracking (1)
 - [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
 
-### Trees (8)
+### Trees (9)
 - [0100 Same Tree](./Trees/0100-same-tree) (Easy)
 - [0101 Symmetric Tree](./Trees/0101-symmetric-tree) (Easy)
 - [0103 Binary Tree Zigzag Level Order Traversal](./Trees/0103-binary-tree-zigzag-level-order-traversal) (Medium)
@@ -76,8 +76,9 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 - [0145 Binary Tree Postorder Traversal](./Trees/0145-binary-tree-postorder-traversal) (Easy)
 - [0199 Binary Tree Right Side View](./Trees/0199-binary-tree-right-side-view) (Medium)
 - [0589 N-ary Tree Preorder Traversal](./Trees/0589-n-ary-tree-preorder-traversal) (Easy)
+- [0637 Average of Levels in Binary Tree](./Trees/0637-average-of-levels-in-binary-tree) (Easy)
 
-### Graphs (8)
+### Graphs (9)
 - [0100 Same Tree](./Trees/0100-same-tree) (Easy)
 - [0101 Symmetric Tree](./Trees/0101-symmetric-tree) (Easy)
 - [0103 Binary Tree Zigzag Level Order Traversal](./Trees/0103-binary-tree-zigzag-level-order-traversal) (Medium)
@@ -86,6 +87,7 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 - [0145 Binary Tree Postorder Traversal](./Trees/0145-binary-tree-postorder-traversal) (Easy)
 - [0199 Binary Tree Right Side View](./Trees/0199-binary-tree-right-side-view) (Medium)
 - [0589 N-ary Tree Preorder Traversal](./Trees/0589-n-ary-tree-preorder-traversal) (Easy)
+- [0637 Average of Levels in Binary Tree](./Trees/0637-average-of-levels-in-binary-tree) (Easy)
 
 ### Matrix (1)
 - [3417 Zigzag Grid Traversal With Skip](./Matrix/3417-zigzag-grid-traversal-with-skip) (Easy)

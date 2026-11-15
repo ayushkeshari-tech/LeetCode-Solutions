@@ -138,5 +138,16 @@
       "Breadth-First Search",
       "Binary Tree"
     ]
+  },
+  "average-of-levels-in-binary-tree": {
+    "id": "637",
+    "title": "Average of Levels in Binary Tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
   }
 }
