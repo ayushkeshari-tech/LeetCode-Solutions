@@ -149,5 +149,16 @@
       "Breadth-First Search",
       "Binary Tree"
     ]
+  },
+  "invert-binary-tree": {
+    "id": "226",
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
   }
 }
