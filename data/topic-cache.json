@@ -160,5 +160,17 @@
       "Breadth-First Search",
       "Binary Tree"
     ]
+  },
+  "subtree-of-another-tree": {
+    "id": "572",
+    "title": "Subtree of Another Tree",
+    "difficulty": "Easy",
+    "tags": [
+      "Tree",
+      "Depth-First Search",
+      "String Matching",
+      "Binary Tree",
+      "Hash Function"
+    ]
   }
 }
