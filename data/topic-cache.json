@@ -172,5 +172,17 @@
       "Binary Tree",
       "Hash Function"
     ]
+  },
+  "most-frequent-subtree-sum": {
+    "id": "508",
+    "title": "Most Frequent Subtree Sum",
+    "difficulty": "Medium",
+    "tags": [
+      "Hash Table",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree",
+      "DP on Trees"
+    ]
   }
 }
