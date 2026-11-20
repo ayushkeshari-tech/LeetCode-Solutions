@@ -184,5 +184,16 @@
       "Binary Tree",
       "DP on Trees"
     ]
+  },
+  "binary-tree-inorder-traversal": {
+    "id": "94",
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "Easy",
+    "tags": [
+      "Stack",
+      "Tree",
+      "Depth-First Search",
+      "Binary Tree"
+    ]
   }
 }
