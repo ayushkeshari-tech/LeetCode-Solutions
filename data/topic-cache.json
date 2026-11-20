@@ -195,5 +195,17 @@
       "Depth-First Search",
       "Binary Tree"
     ]
+  },
+  "construct-binary-tree-from-preorder-and-inorder-traversal": {
+    "id": "105",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
   }
 }
