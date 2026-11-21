@@ -207,5 +207,17 @@
       "Tree",
       "Binary Tree"
     ]
+  },
+  "construct-binary-tree-from-inorder-and-postorder-traversal": {
+    "id": "106",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Tree",
+      "Binary Tree"
+    ]
   }
 }

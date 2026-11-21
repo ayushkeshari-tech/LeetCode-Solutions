@@ -43,16 +43,18 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 
 <!-- TOPIC-INDEX-START -->
 
-### Arrays (3)
+### Arrays (4)
 - [0105 Construct Binary Tree from Preorder and Inorder Traversal](./Trees/0105-construct-binary-tree-from-preorder-and-inorder-traversal) (Medium)
+- [0106 Construct Binary Tree from Inorder and Postorder Traversal](./Trees/0106-construct-binary-tree-from-inorder-and-postorder-traversal) (Medium)
 - [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
 - [3417 Zigzag Grid Traversal With Skip](./Matrix/3417-zigzag-grid-traversal-with-skip) (Easy)
 
 ### Strings (1)
 - [0572 Subtree of Another Tree](./Trees/0572-subtree-of-another-tree) (Easy)
 
-### Hashing (3)
+### Hashing (4)
 - [0105 Construct Binary Tree from Preorder and Inorder Traversal](./Trees/0105-construct-binary-tree-from-preorder-and-inorder-traversal) (Medium)
+- [0106 Construct Binary Tree from Inorder and Postorder Traversal](./Trees/0106-construct-binary-tree-from-inorder-and-postorder-traversal) (Medium)
 - [0508 Most Frequent Subtree Sum](./Trees/0508-most-frequent-subtree-sum) (Medium)
 - [0572 Subtree of Another Tree](./Trees/0572-subtree-of-another-tree) (Easy)
 
@@ -74,17 +76,19 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ### Sorting (1)
 - [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
 
-### Recursion-Backtracking (2)
+### Recursion-Backtracking (3)
 - [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
 - [0105 Construct Binary Tree from Preorder and Inorder Traversal](./Trees/0105-construct-binary-tree-from-preorder-and-inorder-traversal) (Medium)
+- [0106 Construct Binary Tree from Inorder and Postorder Traversal](./Trees/0106-construct-binary-tree-from-inorder-and-postorder-traversal) (Medium)
 
-### Trees (14)
+### Trees (15)
 - [0094 Binary Tree Inorder Traversal](./Trees/0094-binary-tree-inorder-traversal) (Easy)
 - [0100 Same Tree](./Trees/0100-same-tree) (Easy)
 - [0101 Symmetric Tree](./Trees/0101-symmetric-tree) (Easy)
 - [0103 Binary Tree Zigzag Level Order Traversal](./Trees/0103-binary-tree-zigzag-level-order-traversal) (Medium)
 - [0104 Maximum Depth of Binary Tree](./Trees/0104-maximum-depth-of-binary-tree) (Easy)
 - [0105 Construct Binary Tree from Preorder and Inorder Traversal](./Trees/0105-construct-binary-tree-from-preorder-and-inorder-traversal) (Medium)
+- [0106 Construct Binary Tree from Inorder and Postorder Traversal](./Trees/0106-construct-binary-tree-from-inorder-and-postorder-traversal) (Medium)
 - [0144 Binary Tree Preorder Traversal](./Trees/0144-binary-tree-preorder-traversal) (Easy)
 - [0145 Binary Tree Postorder Traversal](./Trees/0145-binary-tree-postorder-traversal) (Easy)
 - [0199 Binary Tree Right Side View](./Trees/0199-binary-tree-right-side-view) (Medium)
