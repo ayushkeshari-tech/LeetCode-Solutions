@@ -229,5 +229,15 @@
       "Breadth-First Search",
       "Binary Tree"
     ]
+  },
+  "binary-tree-level-order-traversal": {
+    "id": "102",
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "tags": [
+      "Tree",
+      "Breadth-First Search",
+      "Binary Tree"
+    ]
   }
 }
