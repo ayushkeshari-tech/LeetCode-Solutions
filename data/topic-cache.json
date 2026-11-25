@@ -249,5 +249,13 @@
       "Two Pointers",
       "Binary Search"
     ]
+  },
+  "remove-duplicates-from-sorted-list": {
+    "id": "83",
+    "title": "Remove Duplicates from Sorted List",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked List"
+    ]
   }
 }

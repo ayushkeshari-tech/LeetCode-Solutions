@@ -63,8 +63,9 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 - [0167 Two Sum II - Input Array Is Sorted](./Binary-Search/0167-two-sum-ii-input-array-is-sorted) (Medium)
 - [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
 
-### LinkedList (3)
+### LinkedList (4)
 - [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
+- [0083 Remove Duplicates from Sorted List](./LinkedList/0083-remove-duplicates-from-sorted-list) (Easy)
 - [0328 Odd Even Linked List](./LinkedList/0328-odd-even-linked-list) (Medium)
 - [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
 
@@ -138,10 +139,3 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/ayushkeshari-tech/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
-<!---LeetCode Topics End-->
