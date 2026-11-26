@@ -257,5 +257,15 @@
     "tags": [
       "Linked List"
     ]
+  },
+  "squares-of-a-sorted-array": {
+    "id": "977",
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
   }
 }

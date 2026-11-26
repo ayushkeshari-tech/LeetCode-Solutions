@@ -43,11 +43,12 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 
 <!-- TOPIC-INDEX-START -->
 
-### Arrays (5)
+### Arrays (6)
 - [0105 Construct Binary Tree from Preorder and Inorder Traversal](./Trees/0105-construct-binary-tree-from-preorder-and-inorder-traversal) (Medium)
 - [0106 Construct Binary Tree from Inorder and Postorder Traversal](./Trees/0106-construct-binary-tree-from-inorder-and-postorder-traversal) (Medium)
 - [0167 Two Sum II - Input Array Is Sorted](./Binary-Search/0167-two-sum-ii-input-array-is-sorted) (Medium)
 - [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
+- [0977 Squares of a Sorted Array](./Two-Pointers-Sliding-Window/0977-squares-of-a-sorted-array) (Easy)
 - [3417 Zigzag Grid Traversal With Skip](./Matrix/3417-zigzag-grid-traversal-with-skip) (Easy)
 
 ### Strings (1)
@@ -59,8 +60,9 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 - [0508 Most Frequent Subtree Sum](./Trees/0508-most-frequent-subtree-sum) (Medium)
 - [0572 Subtree of Another Tree](./Trees/0572-subtree-of-another-tree) (Easy)
 
-### Two-Pointers-Sliding-Window (2)
+### Two-Pointers-Sliding-Window (3)
 - [0167 Two Sum II - Input Array Is Sorted](./Binary-Search/0167-two-sum-ii-input-array-is-sorted) (Medium)
+- [0977 Squares of a Sorted Array](./Two-Pointers-Sliding-Window/0977-squares-of-a-sorted-array) (Easy)
 - [2130 Maximum Twin Sum of a Linked List](./LinkedList/2130-maximum-twin-sum-of-a-linked-list) (Medium)
 
 ### LinkedList (4)
@@ -79,8 +81,9 @@ I'm still learning, making mistakes, and improving with every problem I solve. I
 ### Binary-Search (1)
 - [0167 Two Sum II - Input Array Is Sorted](./Binary-Search/0167-two-sum-ii-input-array-is-sorted) (Medium)
 
-### Sorting (1)
+### Sorting (2)
 - [0414 Third Maximum Number](./Arrays/0414-third-maximum-number) (Easy)
+- [0977 Squares of a Sorted Array](./Two-Pointers-Sliding-Window/0977-squares-of-a-sorted-array) (Easy)
 
 ### Recursion-Backtracking (3)
 - [0021 Merge Two Sorted Lists](./LinkedList/0021-merge-two-sorted-lists) (Easy)
