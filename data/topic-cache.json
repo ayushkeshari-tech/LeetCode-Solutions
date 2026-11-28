@@ -277,5 +277,15 @@
       "Two Pointers",
       "Sorting"
     ]
+  },
+  "3sum-closest": {
+    "id": "16",
+    "title": "3Sum Closest",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ]
   }
 }
